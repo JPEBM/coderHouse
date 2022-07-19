@@ -1,0 +1,46 @@
+.main-main
+{
+    display: none;
+    margin-top: 50px;
+    text-align: center;
+}
+
+.main
+{
+   
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+}
+
+.button-96
+{
+   
+}
+
+.container
+{
+    display: flex;
+    padding: 20px;
+    align-items: center;
+    justify-content: center;
+}
+
+.imgbox img
+{
+    width: 100px;
+    height: 100px;
+}
+
+.txbox
+{
+    display: flex;
+    column-gap: 50px;
+    margin: 0 100px;
+}
+
+.button-100
+{
+    margin: 50PX;
+    padding: 10px;
+}
